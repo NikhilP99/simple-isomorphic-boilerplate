@@ -22,7 +22,7 @@ const routes = {
     const route = await next();
 
     // Provide default values for title, description etc.
-    route.title = `${route.title || 'Egnify'}`;
+    route.title = `${route.title}`;
     route.description = route.description || '';
 
     return route;

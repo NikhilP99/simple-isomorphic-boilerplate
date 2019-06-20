@@ -1,0 +1,12 @@
+{
+  "Home.js": "/assets/Home.chunk.js",
+  "Home~not-found.js": "/assets/Home~not-found.chunk.js",
+  "client.js": "/assets/client.js",
+  "not-found.js": "/assets/not-found.chunk.js",
+  "src/external-assets/styles/fonts/SF-Pro-Text-Bold.otf": "/assets/src/external-assets/styles/fonts/SF-Pro-Text-Bold.otf?5b6c7cdf",
+  "src/external-assets/styles/fonts/SF-Pro-Text-Light.otf": "/assets/src/external-assets/styles/fonts/SF-Pro-Text-Light.otf?71d6e2c3",
+  "src/external-assets/styles/fonts/SF-Pro-Text-Medium.otf": "/assets/src/external-assets/styles/fonts/SF-Pro-Text-Medium.otf?9491854a",
+  "src/external-assets/styles/fonts/SF-Pro-Text-Regular.otf": "/assets/src/external-assets/styles/fonts/SF-Pro-Text-Regular.otf?404e4373",
+  "src/external-assets/styles/fonts/SF-Pro-Text-Semibold.otf": "/assets/src/external-assets/styles/fonts/SF-Pro-Text-Semibold.otf?8f079b59",
+  "vendors.js": "/assets/vendors.chunk.js"
+}

@@ -4,7 +4,7 @@ import Home from './Home';
 
 async function action() {
   return {
-    title: 'Egnify React Starter Kit',
+    title: 'React Starter Kit',
     chunks: ['Home'],
     component: (
       <AppLayout>
